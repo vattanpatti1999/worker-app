@@ -7,8 +7,6 @@ export default function WorkerCard({ name, country, profileImage, flag }) {
       <Image source={{ uri: profileImage }} style={styles.image} />
       <Text style={styles.name}>{name}</Text>
       <Text style={styles.country}>{country}</Text>
-
-      <Image source={{ uri: flag }} style={styles.flag} />
     </View>
   );
 }
@@ -40,10 +38,5 @@ const styles = StyleSheet.create({
   country: {
     fontSize: 14,
     color: "#630c13",
-  },
-
-  flag: {
-    width: 20,
-    height: 20,
   },
 });
