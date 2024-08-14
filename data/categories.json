@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Astrologer",
+    "icon": "https://cdn-icons-png.flaticon.com/128/3924/3924420.png"
+  },
+  {
+    "id": "2",
+    "name": "Assistant",
+    "icon": "https://cdn-icons-png.flaticon.com/128/3361/3361197.png"
+  },
+  {
+    "id": "3",
+    "name": "Makeup",
+    "icon": "https://cdn-icons-png.flaticon.com/128/1940/1940993.png"
+  },
+  {
+    "id": "4",
+    "name": "Mehndi",
+    "icon": "https://cdn-icons-png.flaticon.com/128/6037/6037422.png"
+  },
+  {
+    "id": "5",
+    "name": "Photographer",
+    "icon": "https://cdn-icons-png.flaticon.com/128/2317/2317973.png"
+  },
+  {
+    "id": "6",
+    "name": "AC Cleanup",
+    "icon": "https://cdn-icons-png.flaticon.com/128/10656/10656775.png"
+  },
+  {
+    "id": "7",
+    "name": "Dog Grooming",
+    "icon": "https://cdn-icons-png.flaticon.com/128/8818/8818011.png"
+  }
+]
